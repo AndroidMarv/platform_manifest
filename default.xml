@@ -435,7 +435,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
-  <project path="external/busybox" remote="androvm" name="platform_external_busybox" revision="genymotion-4.3_r3.1 />
+  <project path="external/busybox" remote="androvm" name="platform_external_busybox" revision="genymotion-4.3_r3.1" />
   <!-- Genymotion device !-->
   <project path="device/androVM" remote="androvm" name="device_androVM" revision="genymotion-4.4_r1" />
   <!-- File manager from CyanogenMod !-->
